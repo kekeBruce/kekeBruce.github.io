@@ -1,6 +1,4 @@
-# kekeBruce.github.io/blog
-
-[kekeBruce.github.io/blog](https:www.kekeBruce.github.io/blog)
+# kekeBruce.github.io
 
 當前目錄：
 
