@@ -1,8 +1,11 @@
-# kekeBruce.github.io/blog
+---
+layout: post
+title: github 頁面筆記
+time: 2019-04-09 15:46:50
+---
+# github 頁面筆記
 
-[kekeBruce.github.io/blog](https:www.kekeBruce.github.io/blog)
-
-當前目錄：
+當前目錄
 
     .
     ├── assets
@@ -23,3 +26,4 @@
     └── README.md
 
     6 directories, 10 files
+
